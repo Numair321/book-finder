@@ -1,12 +1,50 @@
-# React + Vite
+# 📚 Book Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based app to search books using the **Google Books API**.  
+This project was created as part of an assignment, demonstrating the use of **LLMs (ChatGPT)** for problem-solving, deployment, and GitHub version control.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Features
+- Search for books by title or author  
+- Display results with title, author, and description  
+- Responsive design with Tailwind CSS  
+- Deployed on Netlify  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔹 Proof of Work (Submission Requirements)
+
+### ✅ Level 1 (50%)
+- **ChatGPT Conversations (Problem Solving):**  
+  [Click Here for ChatGPT Link](PUT-YOUR-SHARED-CHATGPT-LINK-HERE)  
+  *(or see screenshots in `/screenshots` folder)*  
+
+- **Demo Video:**  
+  [Watch Here](PUT-YOUR-VIDEO-LINK-HERE)  
+
+---
+
+### ✅ Level 2 (30%)
+- **Live Deployment:**  
+  [Book Finder on Netlify](PUT-YOUR-NETLIFY-LINK-HERE)  
+
+---
+
+### ✅ Level 3 (20%)
+- **GitHub Repository (Code Sharing):**  
+  [GitHub Repo Link](https://github.com/Numair321/book-finder)  
+
+---
+
+## 🔹 How to Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/Numair321/book-finder.git
+cd book-finder
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
