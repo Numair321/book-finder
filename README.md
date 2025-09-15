@@ -27,7 +27,7 @@ This project was created as part of an assignment, demonstrating the use of **LL
 
 ### ✅ Level 2 (30%)
 - **Live Deployment:**  
-  [Book Finder on Netlify](PUT-YOUR-NETLIFY-LINK-HERE)  
+  [Book Finder on Netlify](https://bookfinderwebapp1.netlify.app/)  
 
 ---
 
