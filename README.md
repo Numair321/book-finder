@@ -17,7 +17,7 @@ This project was created as part of an assignment, demonstrating the use of **LL
 
 ### ✅ Level 1 (50%)
 - **ChatGPT Conversations (Problem Solving):**  
-  [Click Here for ChatGPT Link](https://chatgpt.com/c/68c7a070-3fa8-832b-ab74-b590e0f03ede)  
+  [Click Here for ChatGPT Link](https://chatgpt.com/share/68c7f1c2-e01c-8004-8f57-d429f58e14fb)  
   *(or see screenshots in `/screenshots` folder)*  
 
 - **Demo Video:**  
